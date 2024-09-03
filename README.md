@@ -1,1 +1,1 @@
-# Floor-Cleaning-Robot
+This project involves designing and building an autonomous floor-cleaning robot using an Arduino. The robot is equipped with sensors to detect obstacles and avoid collisions, and it uses motorized wheels for movement. A brush mechanism is integrated into the robot for cleaning surfaces as it navigates the area. The robot's path is planned using algorithms to ensure efficient coverage of the cleaning area. The primary goal is to create a cost-effective, automated solution for maintaining clean floors without human intervention.
